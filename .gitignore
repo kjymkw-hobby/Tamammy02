@@ -1,0 +1,8 @@
+# MPLAB X generated files
+nbproject/private/
+debug/
+build/
+dist/
+*.d
+*.p1
+*.o
